@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "KennethLlamasares\Timezones\TimezonesServiceProvider"
+                "KennethLlamasares\\Timezones\\TimezonesServiceProvider"
             ]
         }
     },
